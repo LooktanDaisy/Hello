@@ -87,6 +87,17 @@
             android:textColor="#ff9900"/>
 
         <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="true"
+            android:paddingBottom="16dp"
+            android:text="@string/skip"
+            style="@style/TextViewStyle.Green"
+            android:textColor="#ff9900"/>
+
+
+        <TextView
             android:id="@+id/tvPolicy"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
