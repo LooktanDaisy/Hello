@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="calculate">Calculate</string>
+    <string name="below_welcome_page">By continuing, you accept the Term of Use and Privacy Policy</string>
+    <string name="skip">Skip</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome">Welcome to Clipzy</string>
+    <string name="clip">Clip anything from over</string>
+    <string name="topic">1000,000 hot topics</string>
+    <string name="button">Button</string>
+</resources>
